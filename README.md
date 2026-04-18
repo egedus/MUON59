@@ -1,4 +1,4 @@
-# MUON59
+## MUON59
 This dissertation presents a novel framework for detecting subatomic anomalies in the light of 6D Muon transparency.
 Technical Report v1.0.0-Alpha: MÜON-TRANS-MAP (6D-BRIDGE)
 1. Executive Summary / Vezetői összefoglaló
